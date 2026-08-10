@@ -5,7 +5,7 @@
 # Andras Kovacs <andras0602@gmail.com>, 2026.
 # István Szabó <istvanszabo890629@gmail.com>, 2026.
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-07-20 20:12+0000\nLast-Translator: István Szabó <istvanszabo890629@gmail.com>\nLanguage-Team: Hungarian <https://l10n.opensuse.org/projects/quiz/quiz/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.7.1\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-06-18 11:07+0000\nPO-Revision-Date: 2026-08-11 08:13+0000\nLast-Translator: Andras Kovacs <andras0602@gmail.com>\nLanguage-Team: Hungarian <https://l10n.opensuse.org/projects/quiz/quiz/hu/>\nLanguage: hu\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.8.1\n"
 
 msgid "openSUSE Arm"
 msgstr "openSUSE Arm"
@@ -67,7 +67,6 @@ msgstr "Ivan Ivanov és Matthias Brugger a SUSE HW Enablement csapatából."
 msgid "Linus Torvalds"
 msgstr "Linus Torvalds"
 
-#, fuzzy
 msgid "Richard Stallman"
 msgstr "Richard Stallman"
 
@@ -207,7 +206,7 @@ msgid "Cockpit System Management"
 msgstr "Cockpit System Management"
 
 msgid "Discover Cockpit, one click at a time."
-msgstr "Fedezzük fel a Cockpitet, még pedig kattintásonként!"
+msgstr "Fedezzük fel a Cockpitet, mégpedig kattintásonként!"
 
 msgid "What is Cockpit?"
 msgstr "Micsoda az a Cockpit?"
@@ -413,18 +412,15 @@ msgstr "Mindegyik válasz megfelelő"
 msgid "Which of these are openSUSE Immutable distros?"
 msgstr "Melyek ezek közül az openSUSE Immutable disztribúciók?"
 
-#, fuzzy
 msgid "Silverblue, CoreOS"
 msgstr "Silverblue, CoreOS"
 
 msgid "MicroOS, Leap Micro, Aeon, Kalpa"
 msgstr "MicroOS, Leap Micro, Aeon, Kalpa"
 
-#, fuzzy
 msgid "Argon, Krypton"
 msgstr "Argon, Krypton"
 
-#, fuzzy
 msgid "Hurd, Darwin"
 msgstr "Hurd, Darwin"
 
@@ -446,19 +442,15 @@ msgstr "Konténeres futtatási környezet"
 msgid "Which desktop environment does openSUSE Aeon use by default?"
 msgstr "Melyik asztali környezetet használja alapértelmezés szerint az openSUSE Aeon?"
 
-#, fuzzy
 msgid "KDE Plasma"
 msgstr "KDE Plasma"
 
-#, fuzzy
 msgid "Xfce"
 msgstr "Xfce"
 
-#, fuzzy
 msgid "GNOME"
 msgstr "GNOME"
 
-#, fuzzy
 msgid "Enlightenment"
 msgstr "Enlightenment"
 
@@ -468,38 +460,30 @@ msgstr "Melyik asztali környezetet használja alapértelmezés szerint az openS
 msgid "What is the name of installer in openSUSE Aeon?"
 msgstr "Mi a neve az openSUSE Aeon telepítőjének?"
 
-#, fuzzy
 msgid "tik"
 msgstr "tik"
 
-#, fuzzy
 msgid "tak"
 msgstr "tak"
 
-#, fuzzy
 msgid "Anaconda"
 msgstr "Anaconda"
 
-#, fuzzy
 msgid "Agama"
 msgstr "Agama"
 
 msgid "What bootloader is used by default in openSUSE Aeon?"
 msgstr "Melyik bootloadert használja alapértelmezésként az openSUSE Aeon?"
 
-#, fuzzy
 msgid "lilo"
 msgstr "lilo"
 
-#, fuzzy
 msgid "systemd-boot"
 msgstr "systemd-boot"
 
-#, fuzzy
 msgid "grub2"
 msgstr "grub2"
 
-#, fuzzy
 msgid "BOOTMGR"
 msgstr "BOOTMGR"
 
@@ -536,57 +520,45 @@ msgstr "Mindkettő az openSUSE szoftverfrissítő eszközeire utal."
 msgid "There was an experiment with a Sway-based immutable desktop in 2023. Do you know its name?"
 msgstr "2023-ban volt egy kísérlet egy Sway-alapú, \"megváltoztathatatlan\" asztali felülettel. Tudod, mi volt a neve?"
 
-#, fuzzy
 msgid "Greyhound"
 msgstr "Greyhound"
 
-#, fuzzy
 msgid "Greybeard"
 msgstr "Greybeard"
 
-#, fuzzy
 msgid "Bluehair"
 msgstr "Bluehair"
 
-#, fuzzy
 msgid "Ultraviolet"
 msgstr "Ultraviolet"
 
 msgid "Which tool is used to safely update the base system in our Immutable distributions?"
 msgstr "Melyik eszközt használjuk egy Immutable disztribúció alaprendszerének biztonságos frissítésére?"
 
-#, fuzzy
 msgid "zypper dup"
 msgstr "zypper dup"
 
-#, fuzzy
 msgid "dnf upgrade"
 msgstr "dnf upgrade"
 
-#, fuzzy
 msgid "transactional-update"
 msgstr "transactional-update"
 
-#, fuzzy
 msgid "ostree pull"
 msgstr "ostree pull"
 
 msgid "How can you install an additional package?"
 msgstr "Hogyan lehet telepíteni egy további csomagot?"
 
-#, fuzzy
 msgid "zypper in"
 msgstr "zypper in"
 
-#, fuzzy
 msgid "dnf install"
 msgstr "dnf install"
 
-#, fuzzy
 msgid "transactional-update pkg install"
 msgstr "transactional-update pkg install"
 
-#, fuzzy
 msgid "rpm-ostree install"
 msgstr "rpm-ostree install"
 
@@ -623,37 +595,30 @@ msgstr "Az rpm-ostree rétegezési módszerével"
 msgid "Aside from the update mechanism in Immutable distros, what other components SUPPORT transactional-updates?"
 msgstr "Az Immutable disztribúciók frissítési mechanizmusán kívül mely egyéb komponensek TÁMOGATJÁK a tranzakciós frissítéseket?"
 
-#, fuzzy
 msgid "DNF"
 msgstr "DNF"
 
 msgid "Salt and Ansible"
 msgstr "A Salt és az Ansible"
 
-#, fuzzy
 msgid "cockpit-tukit"
 msgstr "cockpit-tukit"
 
 msgid "Only one of the following immutable distributions has regular point releases, the rest are rolling. Which one?"
 msgstr "Az alábbi változatlan disztribúciók közül csak egynek vannak rendszeres kiadásai, a többi folyamatos frissítésű. Melyik az?"
 
-#, fuzzy
 msgid "Leap Micro"
 msgstr "Leap Micro"
 
-#, fuzzy
 msgid "MicroOS"
 msgstr "MicroOS"
 
-#, fuzzy
 msgid "Aeon"
 msgstr "Aeon"
 
-#, fuzzy
 msgid "Kalpa"
 msgstr "Kalpa"
 
-#, fuzzy
 msgid "Kernel Ninja"
 msgstr "Kernel Ninja"
 
@@ -663,76 +628,60 @@ msgstr "Érdekes tények a SUSE és az openSUSE rendszermagjáról"
 msgid "What is roughly the size (MB) of base (squashfs) image of SUSE Automotive Linux OS?"
 msgstr "Körülbelül mekkora (MB-ban kifejezve) a SUSE Automotive Linux operációs rendszer alapképének (squashfs) mérete?"
 
-#, fuzzy
 msgid "~ 20MB"
 msgstr "~ 20MB"
 
-#, fuzzy
 msgid "~ 60MB"
 msgstr "~ 60MB"
 
-#, fuzzy
 msgid "~ 240MB"
 msgstr "~ 240MB"
 
-#, fuzzy
 msgid "~ 520MB"
 msgstr "~ 520MB"
 
 msgid "How many configuration parameters (roughly) are adjusted in the real-time Linux kernel for automotive compared to standard SLES RT?"
 msgstr "Hány konfigurációs paramétert (körülbelül) állítanak be a járműipari felhasználásra szánt valós idejű Linux-kernelben a szabványos SLES RT-hez képest?"
 
-#, fuzzy
 msgid "~ 50"
 msgstr "~ 50"
 
-#, fuzzy
 msgid "~ 500"
 msgstr "~ 500"
 
-#, fuzzy
 msgid "~ 50000"
 msgstr "~ 50000"
 
-#, fuzzy
 msgid "~ 500000"
 msgstr "~ 500000"
 
 msgid "How many patches were applied on top of the upstream kernel 15.6 (SLES 15 SP6) as of June 11 2025?"
 msgstr "2025. június 11-én hány javítást alkalmaztak az upstream 15.6-os kernelre (SLES 15 SP6)?"
 
-#, fuzzy
 msgid "4231"
 msgstr "4231"
 
-#, fuzzy
 msgid "16102"
 msgstr "16102"
 
-#, fuzzy
 msgid "32786"
 msgstr "32786"
 
-#, fuzzy
 msgid "346870"
 msgstr "346870"
 
 msgid "Which kernel flavor is used by default in openSUSE Leap?"
 msgstr "Melyik kernel-változatot használja alapértelmezésként az openSUSE Leap?"
 
-#, fuzzy
 msgid "kernel-suse"
 msgstr "kernel-suse"
 
-#, fuzzy
 msgid "kernel-default"
 msgstr "kernel-default"
 
-#, fuzzy
 msgid "kernel-leap"
 msgstr "kernel-leap"
 
-#, fuzzy
 msgid "kernel-vanilla"
 msgstr "kernel-vanilla"
 
@@ -769,38 +718,30 @@ msgstr "Jobb energiahatékonyság"
 msgid "What is the name of a (very) fast tool for expanding kernel patches?"
 msgstr "Mi a neve annak a (bitang) gyors eszköznek, amellyel kiterjeszthetők a kernel-javítások?"
 
-#, fuzzy
 msgid "gitlab-kernel"
 msgstr "gitlab-kernel"
 
-#, fuzzy
 msgid "obs-kernel"
 msgstr "obs-kernel"
 
-#, fuzzy
 msgid "rapidquilt"
 msgstr "rapidquilt"
 
-#, fuzzy
 msgid "susepatch"
 msgstr "susepatch"
 
 msgid "In openSUSE, where are kernel build configs usually stored in the source tree?"
 msgstr "Az openSUSE-ban általában hol tárolják a kernel-összeállítási konfigurációkat a sourcetree-ben?"
 
-#, fuzzy
 msgid "configs/"
 msgstr "configs/"
 
-#, fuzzy
 msgid "source/"
 msgstr "source/"
 
-#, fuzzy
 msgid "etc/"
 msgstr "etc/"
 
-#, fuzzy
 msgid "boot/"
 msgstr "boot/"
 
@@ -822,19 +763,15 @@ msgstr "Egy rejtett fotó a SUSE legújabb kernel-csapatának csapatépítő ren
 msgid "Which of the following is a program to load kernel modules?"
 msgstr "Az alábbiak közül melyik egy kernelmodulok betöltésére szolgáló program?"
 
-#, fuzzy
 msgid "mkinitrd"
 msgstr "mkinitrd"
 
-#, fuzzy
 msgid "zypper"
 msgstr "zypper"
 
-#, fuzzy
 msgid "modprobe"
 msgstr "modprobe"
 
-#, fuzzy
 msgid "systemctl"
 msgstr "systemctl"
 
@@ -871,76 +808,60 @@ msgstr "Továbbfejlesztett SELinux-támogatással rendelkező kernelt"
 msgid "Which kernel boot parameter will typically help you while debugging video driver issues?"
 msgstr "Melyik kernel-indítási paraméter segít általában a videokártya-illesztőprogrammal kapcsolatos problémák hibakeresésében?"
 
-#, fuzzy
 msgid "quiet"
 msgstr "quiet"
 
-#, fuzzy
 msgid "nomodeset"
 msgstr "nomodeset"
 
-#, fuzzy
 msgid "bumblebee"
 msgstr "bumblebee"
 
-#, fuzzy
 msgid "noacpi"
 msgstr "noacpi"
 
 msgid "Which real-time scheduling policy is most deterministic in Linux?"
 msgstr "Melyik valós idejű ütemezési szabály a leginkább determinisztikusabb Linux rendszerek esetében?"
 
-#, fuzzy
 msgid "SCHED_OTHER"
 msgstr "SCHED_OTHER"
 
-#, fuzzy
 msgid "SCHED_FIFO"
 msgstr "SCHED_FIFO"
 
-#, fuzzy
 msgid "SCHED_BATCH"
 msgstr "SCHED_BATCH"
 
-#, fuzzy
 msgid "SCHED_IDLE"
 msgstr "SCHED_IDLE"
 
 msgid "What is the name of the package that provides additional firmware in openSUSE Leap?"
 msgstr "Mi a neve annak a csomagnak, amely kiegészítő firmware-t biztosít az openSUSE Leap rendszerben?"
 
-#, fuzzy
 msgid "kernel-firmware-extra"
 msgstr "kernel-firmware-extra"
 
-#, fuzzy
 msgid "firmware-addon-leap"
 msgstr "firmware-addon-leap"
 
-#, fuzzy
 msgid "kernel-default-extra"
 msgstr "kernel-default-extra"
 
-#, fuzzy
 msgid "suse-firmware-pack"
 msgstr "suse-firmware-pack"
 
 msgid "How can you enable AppArmor via the GRUB kernel command line in openSUSE?"
 msgstr "Hogyan lehet az AppArmort az openSUSE rendszerben a GRUB kernel parancssorán keresztül engedélyezni?"
 
-#, fuzzy
 msgid "apparmor=1"
 msgstr "apparmor=1"
 
-#, fuzzy
 msgid "security=apparmor"
 msgstr "security=apparmor"
 
-#, fuzzy
 msgid "enable=apparmor"
 msgstr "enable=apparmor"
 
-#, fuzzy
 msgid "selinux=off apparmor=on"
 msgstr "selinux=off apparmor=on"
 
@@ -948,18 +869,16 @@ msgid "In the openSUSE kernel world, what does 'KOTD' stand for?"
 msgstr "Az openSUSE kernelt illetően mit jelent a „KOTD” rövidítés?"
 
 msgid "Kernel Of The Day — daily built kernels on OBS Kernel:xxx projects"
-msgstr "Kernel Of The Day — az OBS Kernel:xxx projektek keretében naponta összeállított kernelek"
+msgstr "Kernel Of The Day — naponta fordított kernelek az OBS Kernel:xxx projektek keretében"
 
-#, fuzzy
 msgid "Knights Of The Old Repositories — the legendary kernel defenders"
-msgstr "Knights Of The Old Repositories — the legendary kernel defenders"
+msgstr "Knights Of The Old Repositories — a legendás kernel védelmezők"
 
 msgid "Keep Our Tux Dancing — the secret kernel dance party"
 msgstr "Keep Our Tux Dancing — a titkos kernel-táncparti"
 
-#, fuzzy
 msgid "Kernel Operators Training Division — Jedi-level kernel ninjas"
-msgstr "Kernel Operators Training Division — Jedi-level kernel ninjas"
+msgstr "Kernel Operators Training Division — Jedi-szintű kernel ninják"
 
 msgid "SUSE is a top 6 Linux kernel contributor (LF 2017). About what percent of contributions does SUSE make?"
 msgstr "A SUSE a Linux-kernelhez való hozzájárulások tekintetében a top 6 között szerepel (LF 2017). De a hozzájárulások hány százalékát adja a SUSE?"
@@ -976,7 +895,6 @@ msgstr "Hozzávetőlegesen 5%"
 msgid "More than 20%"
 msgstr "Több, mint 20%"
 
-#, fuzzy
 msgid "Chameleon Fun for kids"
 msgstr "Chameleon Fun for kids"
 
@@ -1142,19 +1060,15 @@ msgstr "Mérkőzz meg más felhasználókkal a ranglistánkon! Kérdésenként 3
 msgid "What is the mascot of openSUSE project?"
 msgstr "Mi az openSUSE-projekt kabalája?"
 
-#, fuzzy
 msgid "Pascal"
 msgstr "Pascal"
 
-#, fuzzy
 msgid "TwoPac"
 msgstr "TwoPac"
 
-#, fuzzy
 msgid "Geeko"
 msgstr "Geeko"
 
-#, fuzzy
 msgid "BeefyMiracle"
 msgstr "BeefyMiracle"
 
@@ -1203,30 +1117,24 @@ msgstr "A Helsinki Egyetemen"
 msgid "What is the default filesystem in openSUSE?"
 msgstr "Mi az openSUSE alapértelmezett fájlrendszere?"
 
-#, fuzzy
 msgid "ReiserFS"
 msgstr "ReiserFS"
 
-#, fuzzy
 msgid "Btrfs"
 msgstr "Btrfs"
 
-#, fuzzy
 msgid "XFS"
 msgstr "XFS"
 
-#, fuzzy
 msgid "InterPlanetary File System"
 msgstr "InterPlanetary File System"
 
 msgid "What’s the name of the new installer in Leap 16?"
 msgstr "Mi a neve az új telepítőprogramnak a Leap 16-ban?"
 
-#, fuzzy
 msgid "Sypper"
 msgstr "Sypper"
 
-#, fuzzy
 msgid "Cayman"
 msgstr "Cayman"
 
@@ -1236,30 +1144,24 @@ msgstr "Melyik openSUSE-disztribúció van optimalizálva konténerekhez és mik
 msgid "MicroOS and Leap Micro"
 msgstr "MicroOS és Leap Micro"
 
-#, fuzzy
 msgid "Tumbleweed"
 msgstr "Tumbleweed"
 
-#, fuzzy
 msgid "Leap"
 msgstr "Leap"
 
-#, fuzzy
 msgid "Slowroll"
 msgstr "Slowroll"
 
 msgid "Which openSUSE rolling distribution offers a calmer alternative to Tumbleweed for users who prefer fewer surprises?"
 msgstr "Melyik openSUSE rolling disztribúció jelent stabilabb alternatívát a Tumbleweedhez azoknak a felhasználóknak, akik kevesebb meglepetést szeretnének?"
 
-#, fuzzy
 msgid "Tumblebleed"
 msgstr "Tumblebleed"
 
-#, fuzzy
 msgid "Leapfrog"
 msgstr "Leapfrog"
 
-#, fuzzy
 msgid "Zyppernap"
 msgstr "Zyppernap"
 
@@ -1287,19 +1189,15 @@ msgstr "Nincs alapértelmezett beállítás. A választást a felhasználóra b�
 msgid "What is the name of the openSUSE build system?"
 msgstr "Mi a neve az openSUSE összeállítási rendszerének?"
 
-#, fuzzy
 msgid "OBS (Open Build Service)"
 msgstr "OBS (Open Build Service)"
 
-#, fuzzy
 msgid "Weblate"
 msgstr "Weblate"
 
-#, fuzzy
 msgid "Koji"
 msgstr "Koji"
 
-#, fuzzy
 msgid "Autobuilder"
 msgstr "Autobuilder"
 
@@ -1333,26 +1231,21 @@ msgstr "Az alapértelmezett webböngésző"
 msgid "A programming language"
 msgstr "Egy programozási nyelv"
 
-#, fuzzy
 msgid "tao"
 msgstr "tao"
 
 msgid "What is the go-to place to learn about projects from Rancher and SUSE?"
 msgstr "Hol lehet leginkább tájékozódni a Rancher és a SUSE projektjeiről?"
 
-#, fuzzy
 msgid "Rancher Academy"
 msgstr "Rancher Academy"
 
-#, fuzzy
 msgid "Cow College"
 msgstr "Cow College"
 
-#, fuzzy
 msgid "Moo University"
 msgstr "Moo University"
 
-#, fuzzy
 msgid "Cowboy Hat"
 msgstr "Cowboy Hat"
 
@@ -1386,38 +1279,30 @@ msgstr "A Nürnbergből érkező füstjelek útján"
 msgid "Where can you check the current status of openSUSE infrastructure?"
 msgstr "Hol lehet ellenőrizni az openSUSE infrastruktúrájának aktuális állapotát?"
 
-#, fuzzy
 msgid "status.opensuse.org"
 msgstr "status.opensuse.org"
 
-#, fuzzy
 msgid "isopensusedown.com"
 msgstr "isopensusedown.com"
 
-#, fuzzy
 msgid "yast-status-viewer"
 msgstr "yast-status-viewer"
 
-#, fuzzy
 msgid "zypper up --ping"
 msgstr "zypper up --ping"
 
 msgid "What is the name of the new package manager GUI replacing YaST?"
 msgstr "Mi a neve annak az új csomagkezelő grafikus felületnek, amely a YaST helyébe lép?"
 
-#, fuzzy
 msgid "Gandalf"
 msgstr "Gandalf"
 
-#, fuzzy
 msgid "Zypperella"
 msgstr "Zypperella"
 
-#, fuzzy
 msgid "Myrlyn"
 msgstr "Myrlyn"
 
-#, fuzzy
 msgid "DnfDumbledore"
 msgstr "DnfDumbledore"
 
@@ -1439,7 +1324,6 @@ msgstr "Ha kínozza Geekót az unalom"
 msgid "Which openSUSE service is used for localization and translation management?"
 msgstr "Melyik openSUSE-szolgáltatást használják a lokalizációhoz és a fordításkezeléshez?"
 
-#, fuzzy
 msgid "OBS"
 msgstr "OBS"
 
@@ -1447,22 +1331,18 @@ msgstr "OBS"
 msgid "Build Service"
 msgstr "Build Service"
 
-#, fuzzy
 msgid "Kickstart"
 msgstr "Kickstart"
 
 msgid "What command would you use to update software packages on openSUSE from the terminal?"
 msgstr "Melyik parancsot használnád az openSUSE szoftvercsomagjainak frissítéséhez a terminálról?"
 
-#, fuzzy
 msgid "zypper update"
 msgstr "zypper update"
 
-#, fuzzy
 msgid "apt-get update"
 msgstr "apt-get update"
 
-#, fuzzy
 msgid "pacman -Syu"
 msgstr "pacman -Syu"
 
@@ -1502,91 +1382,72 @@ msgstr "Tudományos számításokhoz"
 msgid "What tool is used to create and manage snapshots on openSUSE?"
 msgstr "Milyen eszközt használnak az openSUSE rendszeren a pillanatképek létrehozásához és kezeléséhez?"
 
-#, fuzzy
 msgid "snapper"
 msgstr "snapper"
 
-#, fuzzy
 msgid "timeshift"
 msgstr "timeshift"
 
-#, fuzzy
 msgid "btrfs-snap"
 msgstr "btrfs-snap"
 
-#, fuzzy
 msgid "rsnapshot"
 msgstr "rsnapshot"
 
 msgid "What is openSUSE's default text editor?"
 msgstr "Mi az openSUSE alapértelmezett szövegszerkesztője?"
 
-#, fuzzy
 msgid "vim"
 msgstr "vim"
 
-#, fuzzy
 msgid "nano"
 msgstr "nano"
 
-#, fuzzy
 msgid "emacs"
 msgstr "emacs"
 
-#, fuzzy
 msgid "gedit"
 msgstr "gedit"
 
 msgid "Which command would install a package in openSUSE?"
 msgstr "Melyik parancs segítségével lehet egy csomagot telepíteni az openSUSE-ban?"
 
-#, fuzzy
 msgid "zypper install package-name"
 msgstr "zypper install package-name"
 
-#, fuzzy
 msgid "apt-get install package-name"
 msgstr "apt-get install package-name"
 
-#, fuzzy
 msgid "dnf install package-name"
 msgstr "dnf install package-name"
 
-#, fuzzy
 msgid "pacman -S package-name"
 msgstr "pacman -S package-name"
 
 msgid "What is the name of the official openSUSE community forum?"
 msgstr "Mi a neve az openSUSE hivatalos közösségi fórumának?"
 
-#, fuzzy
 msgid "forums.opensuse.org"
 msgstr "forums.opensuse.org"
 
-#, fuzzy
 msgid "discuss.opensuse.com"
 msgstr "discuss.opensuse.com"
 
-#, fuzzy
 msgid "geeko-talk.net"
 msgstr "geeko-talk.net"
 
-#, fuzzy
 msgid "opensuse-chat.org"
 msgstr "opensuse-chat.org"
 
 msgid "Which tool is recommended for managing software repositories and packages in openSUSE?"
 msgstr "Melyik eszközt ajánlják a szoftver-tárak és csomagok kezeléséhez az openSUSE rendszerben?"
 
-#, fuzzy
 msgid "yum"
 msgstr "yum"
 
-#, fuzzy
 msgid "apt"
 msgstr "apt"
 
-#, fuzzy
 msgid "pacman"
 msgstr "pacman"
 
@@ -1596,26 +1457,21 @@ msgstr "Mi a neve az openSUSE legfontosabb, folyamatosan frissülő kiadásának
 msgid "What command will list all repositories in openSUSE?"
 msgstr "Melyik paranccsal lehet kilistáztatni az openSUSE összes repóját?"
 
-#, fuzzy
 msgid "zypper repos"
 msgstr "zypper repos"
 
-#, fuzzy
 msgid "apt list"
 msgstr "apt list"
 
-#, fuzzy
 msgid "dnf repolist"
 msgstr "dnf repolist"
 
-#, fuzzy
 msgid "pacman -Q"
 msgstr "pacman -Q"
 
 msgid "What is the primary license used by openSUSE?"
 msgstr "Melyik az openSUSE által használt fő licenc?"
 
-#, fuzzy
 msgid "GPL (GNU General Public License)"
 msgstr "GPL (GNU General Public License)"
 
@@ -1631,34 +1487,27 @@ msgstr "Saját fejlesztésű (Proprietary)"
 msgid "What does OBS stand for in openSUSE context?"
 msgstr "Mit jelent az OBS az openSUSE összefüggésében?"
 
-#, fuzzy
 msgid "Open Build Service"
 msgstr "Open Build Service"
 
-#, fuzzy
 msgid "Online Backup System"
 msgstr "Online Backup System"
 
-#, fuzzy
 msgid "Open Box Scheduler"
 msgstr "Open Box Scheduler"
 
-#, fuzzy
 msgid "Official Build System"
 msgstr "Official Build System"
 
 msgid "Which openSUSE service provides live build environments and package repositories?"
 msgstr "Melyik openSUSE-szolgáltatás biztosít élő fejlesztői környezetet és csomag-tárolókat?"
 
-#, fuzzy
 msgid "Open Build Service (OBS)"
 msgstr "Open Build Service (OBS)"
 
-#, fuzzy
 msgid "YaST"
 msgstr "YaST"
 
-#, fuzzy
 msgid "Snapper"
 msgstr "Snapper"
 
@@ -1680,82 +1529,66 @@ msgstr "Felhőalapú szolgáltatások nyújtása"
 msgid "Which openSUSE tool is used for system configuration and management?"
 msgstr "Melyik openSUSE-eszközt használják a rendszer konfigurálására és kezelésére?"
 
-#, fuzzy
 msgid "Gnome Control Center"
 msgstr "Gnome Control Center"
 
 msgid "KDE System Settings"
 msgstr "KDE rendszerbeállítások"
 
-#, fuzzy
 msgid "Synaptic"
 msgstr "Synaptic"
 
 msgid "What is the command to check system snapshots on openSUSE?"
 msgstr "Mi az a parancs, amellyel ellenőrizni lehet a rendszer pillanatfelvételeit az openSUSE-on?"
 
-#, fuzzy
 msgid "snapper list"
 msgstr "snapper list"
 
-#, fuzzy
 msgid "timeshift --list"
 msgstr "timeshift --list"
 
-#, fuzzy
 msgid "btrfs subvolume list"
 msgstr "btrfs subvolume list"
 
-#, fuzzy
 msgid "rsnapshot config"
 msgstr "rsnapshot config"
 
 msgid "What package format does openSUSE use?"
 msgstr "Milyen csomagformátumot használ az openSUSE?"
 
-#, fuzzy
 msgid "RPM"
 msgstr "RPM"
 
-#, fuzzy
 msgid "DEB"
 msgstr "DEB"
 
-#, fuzzy
 msgid "PKG"
 msgstr "PKG"
 
-#, fuzzy
 msgid "APK"
 msgstr "APK"
 
 msgid "What is the default shell in openSUSE?"
 msgstr "Mi az openSUSE alapértelmezett parancssora?"
 
-#, fuzzy
 msgid "bash"
 msgstr "bash"
 
-#, fuzzy
 msgid "zsh"
 msgstr "zsh"
 
-#, fuzzy
 msgid "fish"
 msgstr "fish"
 
-#, fuzzy
 msgid "csh"
 msgstr "csh"
 
 msgid "Which of these is a community-driven openSUSE version?"
 msgstr "Melyik ezek közül egy közösség által fejlesztett openSUSE-verzió?"
 
-#, fuzzy
 msgid "SUSE Linux Enterprise"
 msgstr "SUSE Linux Enterprise"
 
-#, fuzzy
 msgid "openSUSE Greenhorn"
 msgstr "openSUSE Greenhorn"
 
@@ -1765,15 +1598,12 @@ msgstr "Ne aggódj, ez a kvíz elsősorban oktatási célú. Nem kell minden vá
 msgid "Which of the following package managers is commonly used in openSUSE?"
 msgstr "Az alábbi csomagkezelők közül melyiket használják általában az openSUSE-ban?"
 
-#, fuzzy
 msgid "Yum"
 msgstr "Yum"
 
-#, fuzzy
 msgid "Zypper"
 msgstr "Zypper"
 
-#, fuzzy
 msgid "Pacman"
 msgstr "Pacman"
 
@@ -1811,7 +1641,7 @@ msgid "Where should you report issues you find in openSUSE?"
 msgstr "Hová kell jelenteni az openSUSE-ban talált hibákat?"
 
 msgid "Just shout at your screen and hope for the best"
-msgstr "Csak kiabálj a képernyőre, és reménykedj a legjobbakban!"
+msgstr "Csak kiálts a képernyőre, és reméld a legjobbat!"
 
 msgid "Send a strongly worded letter to Geeko"
 msgstr "Küldj egy határozott hangvételű levelet Geekónak"
@@ -1840,7 +1670,6 @@ msgstr "Az események csak telihold idején derülnek ki"
 msgid "Where can you ask for help when you're lost in the openSUSE universe?"
 msgstr "Hová fordulhatsz segítségért, ha eltévedtél az openSUSE világában?"
 
-#, fuzzy
 msgid "openSUSE Introduction"
 msgstr "openSUSE Introduction"
 
@@ -2084,17 +1913,14 @@ msgstr "Csak 2024-ben"
 msgid "Which of the following cities has NEVER hosted the openSUSE Asia Summit?"
 msgstr "Az alábbi városok közül melyikben NEM rendezték meg még soha az openSUSE Asia Summitot?"
 
-#, fuzzy
 msgid "Denpasar"
 msgstr "Denpasar"
 
-#, fuzzy
 msgid "Mumbai"
 msgstr "Mumbai"
 
-#, fuzzy
 msgid "Taipei"
-msgstr "Taipei"
+msgstr "Tajpej"
 
 msgid "Faridabad"
 msgstr "Faridábád"
@@ -2102,11 +1928,9 @@ msgstr "Faridábád"
 msgid "The 2018 edition of openSUSE Asia Summit took place in which city?"
 msgstr "Melyik városban került megrendezésre az openSUSE Asia Summit 2018-as rendezvénye?"
 
-#, fuzzy
 msgid "Hong Kong"
 msgstr "Hong Kong"
 
-#, fuzzy
 msgid "Jakarta"
 msgstr "Jakarta"
 
@@ -2119,7 +1943,6 @@ msgstr "Az alábbi országok közül melyikben nem rendezték még soha az openS
 msgid "Vietnam"
 msgstr "Vietnám"
 
-#, fuzzy
 msgid "India"
 msgstr "India"
 
@@ -2132,17 +1955,14 @@ msgstr "Tajvan"
 msgid "In 2016, the summit was hosted at Universitas Islam Indonesia. What city is that university located in?"
 msgstr "2016-ban a csúcstalálkozót az Indonéz Iszlám Egyetem rendezte. Melyik városban található ez az egyetem?"
 
-#, fuzzy
 msgid "Yogyakarta"
 msgstr "Yogyakarta"
 
-#, fuzzy
 msgid "Bandung"
 msgstr "Bandung"
 
-#, fuzzy
 msgid "Surabaya"
-msgstr "Surabaya"
+msgstr "Surabaja"
 
 msgid "Where was the openSUSE Asia Summit held in 2019?"
 msgstr "Hol rendezték meg az openSUSE Asia Summitot 2019-ben?"
@@ -2150,7 +1970,6 @@ msgstr "Hol rendezték meg az openSUSE Asia Summitot 2019-ben?"
 msgid "Seoul"
 msgstr "Szöul"
 
-#, fuzzy
 msgid "Denpasar (Bali)"
 msgstr "Denpasar (Bali)"
 
@@ -2172,7 +1991,6 @@ msgstr "Ütemezési ütközések miatt"
 msgid "Who typically designs the official logo for the openSUSE Asia Summit?"
 msgstr "Általában ki tervezi az openSUSE Asia Summit hivatalos logóját?"
 
-#, fuzzy
 msgid "Geenardo Da Vinci"
 msgstr "Geenardo Da Vinci"
 
@@ -2215,7 +2033,6 @@ msgstr "Hol volt a leghosszabb függővasúti út az openSUSE Asia csúcstalálk
 msgid "Beijing"
 msgstr "Beijing-ben"
 
-#, fuzzy
 msgid "oSC Historian"
 msgstr "oSC Historian"
 
@@ -2255,34 +2072,27 @@ msgstr "Lenz Grimmer a MySQL munkatársa"
 msgid "Which company owned and sponsored openSUSE Conference in 2009?"
 msgstr "Melyik vállalat volt az openSUSE Conference 2009-es rendezvényének szervezője és finanszírozója?"
 
-#, fuzzy
 msgid "Novell"
 msgstr "Novell"
 
-#, fuzzy
 msgid "Micro Focus"
 msgstr "Micro Focus"
 
-#, fuzzy
 msgid "Attachmate"
 msgstr "Attachmate"
 
-#, fuzzy
 msgid "SUSE"
 msgstr "SUSE"
 
 msgid "Back to the present. Who delivered the opening keynote at the oSC 2024?"
 msgstr "De térjünk vissza a jelenbe. Ki tartotta a nyitó előadást az oSC 2024 rendezvényen?"
 
-#, fuzzy
 msgid "Rick Spencer"
 msgstr "Rick Spencer"
 
-#, fuzzy
 msgid "Melissa Di Donato"
 msgstr "Melissa Di Donato"
 
-#, fuzzy
 msgid "Mark Shuttleworth"
 msgstr "Mark Shuttleworth"
 
@@ -2469,9 +2279,8 @@ msgstr "Egy virtuális gép Z-platformon (azaz s390x)"
 msgid "Remote desktop viewer"
 msgstr "Távoli asztal-nézegető"
 
-#, fuzzy
 msgid "Zombie Virtual Memory"
-msgstr "Zombie Virtual Memory"
+msgstr "Zombi Virtuális Memória"
 
 msgid "What does storage mean in the mainframe world?"
 msgstr "Mit jelent a tárolás a mainframek világában?"
@@ -2513,7 +2322,7 @@ msgid "IP to my Linux machine"
 msgstr "A Linux-gépemhez tartozó IP-cím"
 
 msgid "Boot from disk 150."
-msgstr "Bootolás a 150-es lemezről"
+msgstr "Bootolás a 150. lemezről."
 
 msgid "Install Python Libraries version 1.5.0"
 msgstr "A Python könyvtárak 1.5.0-s verziójának telepítése"
@@ -2527,9 +2336,8 @@ msgstr "Szűrőegység hűtőfolyadékhoz"
 msgid "Made up word to confuse laptop users"
 msgstr "Kitalált szó, amelynek célja a laptop-használók megzavarása"
 
-#, fuzzy
 msgid "Integrated FLat circuit"
-msgstr "Integrated FLat circuit"
+msgstr "Integrált síkáramkör"
 
 msgid "A core to run Linux on mainframe"
 msgstr "Egy processzormag a Linux futtatásához mainframe-en"
@@ -2552,19 +2360,15 @@ msgstr "Egy z/VM syslog-szűrő"
 msgid "What is the most used operating system on mainframes?"
 msgstr "Mi a leggyakrabban használt operációs rendszer a mainframe-eken?"
 
-#, fuzzy
 msgid "Linux"
 msgstr "Linux"
 
-#, fuzzy
 msgid "Windows"
 msgstr "Windows"
 
-#, fuzzy
 msgid "z/VM"
 msgstr "z/VM"
 
-#, fuzzy
 msgid "z/OS"
 msgstr "z/OS"
 
@@ -2595,9 +2399,8 @@ msgstr "Szalagmeghajtókat"
 msgid "Network"
 msgstr "Hálózatot"
 
-#, fuzzy
 msgid "Bluetooth"
-msgstr "Bluetooth"
+msgstr "Bluetooth-t"
 
 msgid "What will be delivered together with a mainframe by IBM?"
 msgstr "Mit szállít le az IBM a mainframe-mel együtt?"
@@ -2623,15 +2426,12 @@ msgstr "Minden számrajongó geek számára. Az összes adatot az FCS napján �
 msgid "How many languages are available for the SLES 16 documentation (not including UI translations)?"
 msgstr "Hány nyelven érhető el az SLES 16 dokumentációja (a felhasználói felület fordításait nem számítva)?"
 
-#, fuzzy
 msgid "7"
 msgstr "7"
 
-#, fuzzy
 msgid "16"
 msgstr "16"
 
-#, fuzzy
 msgid "42"
 msgstr "42"
 
@@ -2641,7 +2441,6 @@ msgstr "Csak egy: német!"
 msgid "How many features have been reported against SLES + SAP 16.0? "
 msgstr "Hány hibát jelentettek be az SLES + SAP 16.0 kapcsán? "
 
-#, fuzzy
 msgid "1099"
 msgstr "1099"
 
@@ -2654,44 +2453,36 @@ msgstr "9999 – elvesztettük a fonalat"
 msgid "How many of those features were resolved in 16.0?"
 msgstr "Ezek közül hány funkciót oldottak meg a 16.0-s verzióban?"
 
-#, fuzzy
 msgid "798"
 msgstr "798"
 
-#, fuzzy
 msgid "789"
 msgstr "789"
 
-#, fuzzy
 msgid "123"
 msgstr "123"
 
-#, fuzzy
 msgid "666"
 msgstr "666"
 
 msgid "When does LTS Support for SLES 16.0?"
 msgstr "Mikor ér véget az SLES 16.0 LTS-támogatása?"
 
-#, fuzzy
 msgid "2030"
 msgstr "2030"
 
 msgid "Never – it’s eternal like systemd"
 msgstr "Soha – örökkévaló mint a systemd"
 
-#, fuzzy
 msgid "2029"
 msgstr "2029"
 
-#, fuzzy
 msgid "2032"
 msgstr "2032"
 
 msgid "How many valid bugs were resolved in SLES 16.0?"
 msgstr "Hány tényleges hibát javítottak ki az SLES 16.0-ban?"
 
-#, fuzzy
 msgid "999"
 msgstr "999"
 
@@ -2704,7 +2495,6 @@ msgstr "Annyira sok, hogy már a Bugzilla sem bírja"
 msgid "How many open P1 bugs are currently tracked for SLES + SAP 16.0?"
 msgstr "Jelenleg hány nyitott P1-es hibát követnek nyomon az SLES + SAP 16.0 esetében?"
 
-#, fuzzy
 msgid "11"
 msgstr "11"
 
@@ -2732,25 +2522,21 @@ msgstr "2026. február 30."
 msgid "Which slfo git branch corresponds to SLES 16.0 maintenance updates?"
 msgstr "Melyik slfo git-branch felel meg az SLES 16.0 karbantartási frissítéseinek?"
 
-#, fuzzy
 msgid "slfo-1.2 "
 msgstr "slfo-1.2 "
 
 msgid "devel branch in src.opensuse.org/pool"
 msgstr "devel branch a src.opensuse.org/pool oldalon"
 
-#, fuzzy
 msgid "slfo-main"
 msgstr "slfo-main"
 
-#, fuzzy
 msgid "slfo-1.0"
 msgstr "slfo-1.0"
 
 msgid "How many shipped packages in SLES 16.0 have no assigned maintainer?"
 msgstr "Hány, az SLES 16.0-ban kiadott csomagnak nincs hozzárendelt karbantartója?"
 
-#, fuzzy
 msgid "0"
 msgstr "0"
 
@@ -2761,46 +2547,46 @@ msgid "All of them. Maintainers are overrated"
 msgstr "Egyiknek sincs. A karbantartók túlértékeltek"
 
 msgid "What is the current system Python version in SLES 16.0 (expected to stay until 16.3)?"
-msgstr ""
+msgstr "Mi a jelenlegi rendszer-Python verzió az SLES 16.0-ban (amely várhatóan a 16.3-ig változatlan marad)?"
 
 msgid "python-3.13"
-msgstr ""
+msgstr "python-3.13"
 
 msgid "python-2.7"
-msgstr ""
+msgstr "python-2.7"
 
 msgid "python-3.11"
-msgstr ""
+msgstr "python-3.11"
 
 msgid "python-3.6"
-msgstr ""
+msgstr "python-3.6"
 
 msgid "Ruby was a tough challenge in SLES 15.0. What is the Ruby version in SLES 16.0?"
-msgstr ""
+msgstr "Az SLES 15.0-ban a Ruby komoly kihívást jelentett. Melyik Ruby-verzió érhető el az SLES 16.0-ban?"
 
 msgid "ruby-3.4"
-msgstr ""
+msgstr "ruby-3.4"
 
 msgid "ruby-2.7 LTS"
-msgstr ""
+msgstr "ruby-2.7 LTS"
 
 msgid "ruby-3.1"
-msgstr ""
+msgstr "ruby-3.1"
 
 msgid "ruby-3.2"
-msgstr ""
+msgstr "ruby-3.2"
 
 msgid "How many tests are currently in openQA for SLES 16.0 (GA)?"
-msgstr ""
+msgstr "Jelenleg hány teszt található az openQA-ban a SLES 16.0 (GA) verziójához?"
 
 msgid "None. We solely rely on testing in production."
-msgstr ""
+msgstr "Semennyi. Kizárólag az éles környezetben végzett tesztelésre támaszkodunk."
 
 msgid "1999"
-msgstr ""
+msgstr "1999"
 
 msgid "9999"
-msgstr ""
+msgstr "9999"
 
 msgid "Who is the Release Manager Lead for SLES 16.1?"
 msgstr ""
@@ -2845,112 +2631,112 @@ msgid "Providing Enterprise Linux solutions for mission-critical systems"
 msgstr ""
 
 msgid "Delivering modern container and VM management with Rancher and Harvester"
-msgstr ""
+msgstr "Modern konténer- és virtuálisgép-menedzsment biztosítása a Rancher és a Harvester segítségével"
 
 msgid "Securing cloud-native workloads with NeuVector"
-msgstr ""
+msgstr "A cloud-native workloadok biztonságossá tétele a NeuVector segítségével"
 
 msgid "What does the acronym SUSE stand for?"
-msgstr ""
+msgstr "Mit jelent a SUSE rövidítés?"
 
 msgid "Software- und System-Entwicklung (Software and Systems Development)"
-msgstr ""
+msgstr "Software- und System-Entwicklung (szoftver- és rendszerfejlesztés)"
 
 msgid "Super User Space Explorer"
-msgstr ""
+msgstr "Super User Space Explorer"
 
 msgid "Silly Unix Shell Enthusiasts"
-msgstr ""
+msgstr "Silly Unix Shell Enthusiasts"
 
 msgid "System Upgrade & Security Engine"
-msgstr ""
+msgstr "System Upgrade & Security Engine"
 
 msgid "How many employees does SUSE have worldwide?"
-msgstr ""
+msgstr "Hány alkalmazottja van világszerte a SUSE-nak?"
 
 msgid "Around 500"
-msgstr ""
+msgstr "500 körül"
 
 msgid "Around 1,200"
-msgstr ""
+msgstr "1200 körül"
 
 msgid "Around 2,500"
-msgstr ""
+msgstr "2500 körül"
 
 msgid "Around 10,000"
-msgstr ""
+msgstr "10000 körül"
 
 msgid "SUSECON 2026 is coming in April! Which city will host the largest SUSE conference?"
-msgstr ""
+msgstr "2026 áprilisában érkezik a SUSECON! Melyik város ad otthont a legnagyobb SUSE-konferenciának?"
 
 msgid "Prague"
-msgstr ""
+msgstr "Prága"
 
 msgid "Cupertino"
-msgstr ""
+msgstr "Cupertino"
 
 msgid "Redmont"
-msgstr ""
+msgstr "Redmond"
 
 msgid "Raleigh"
-msgstr ""
+msgstr "Raleigh"
 
 msgid "Which of the following is true about the SUSE Logo?"
-msgstr ""
+msgstr "Az alábbiak közül melyik igaz a SUSE logójára?"
 
 msgid "Hubert Mantel, one of the founders, asked a friend to design the logo, and everyone except him actually liked it."
-msgstr ""
+msgstr "Hubert Mantel, az egyik alapító, megkért egy barátját, hogy tervezze meg a logót, és valójában rajta kívül mindenkinek tetszett."
 
 msgid "We got much better in drawing chameleons. The current logo is the 6th generation since the first one in 1996"
-msgstr ""
+msgstr "Sokat fejlődtünk a kaméleonok rajzolásában. A jelenlegi logó a 6. generáció az 1996-os első logó óta"
 
 msgid "The SUSE logo represents flexibility and adaptability, just like the chameleon"
-msgstr ""
+msgstr "A SUSE logója a rugalmasságot és az alkalmazkodóképességet jelképezi, akárcsak a kaméleon"
 
 msgid "When was the first version of SUSE Linux released?"
-msgstr ""
+msgstr "Mikor jelent meg a SUSE Linux első verziója?"
 
 msgid "1989"
-msgstr ""
+msgstr "1989"
 
 msgid "1991"
-msgstr ""
+msgstr "1991"
 
 msgid "1994"
-msgstr ""
+msgstr "1994"
 
 msgid "2014"
-msgstr ""
+msgstr "2014"
 
 msgid "What is Rancher primarily used for?"
-msgstr ""
+msgstr "Mire használják a Ranchert elsősorban?"
 
 msgid "Managing and scaling Kubernetes clusters"
-msgstr ""
+msgstr "Kubernetes klaszterek kezelésére és skálázására"
 
 msgid "Herding virtual cows in the cloud"
-msgstr ""
+msgstr "Virtuális tehenek hajtására a felhőben"
 
 msgid "Automating SUSE Linux installations only"
-msgstr ""
+msgstr "Kizárólag a SUSE Linux telepítésének automatizálása"
 
 msgid "Playing old-school ranch simulation games"
-msgstr ""
+msgstr "Régimódi tanya-szimulációs játékok játszására"
 
 msgid "What does NeuVector focus on?"
-msgstr ""
+msgstr "Mire fókuszál a NeuVector?"
 
 msgid "Cloud-native container security"
-msgstr ""
+msgstr "Cloud-native konténerbiztonság"
 
 msgid "Making networking faster on Linux desktops"
-msgstr ""
+msgstr "A hálózatkezelés felgyorsítása Linux asztali környezeteken"
 
 msgid "Automating package builds"
-msgstr ""
+msgstr "A csomagok buildelésének automatizálása"
 
 msgid "Coloring the chameleon logo green"
-msgstr ""
+msgstr "A kaméleonlogó zöldre színezése"
 
 msgid "What is SUSE Harvester?"
 msgstr ""
@@ -3252,15 +3038,12 @@ msgstr ""
 msgid "libzypp"
 msgstr ""
 
-#, fuzzy
 msgid "libdnf"
 msgstr "libdnf"
 
-#, fuzzy
 msgid "libapt"
 msgstr "libapt"
 
-#, fuzzy
 msgid "libsuse"
 msgstr "libsuse"
 
