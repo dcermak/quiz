@@ -79,5 +79,21 @@
 		],
 		"theme": "openSUSE",
 	},
+	"linuxdays.cz": {
+	    "quizzes": [
+	        "arm",
+	        "immutability",
+	        "kernel",
+	        "kids",
+	        "opensuse_intro",
+	        "opensuse_greenhorn",
+	        "opensuse_expert",
+	        "s390x",
+	        "yast",
+	        "zypper",
+	        "stats",
+	    ],
+	    "theme": "openSUSE",
+	},
   }
 }
